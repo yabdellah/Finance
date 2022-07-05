@@ -3,7 +3,7 @@
 <!-- title -->
 
 <!--lint ignore no-dead-urls-->
-# Quantitative Finance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome Quantitative Finance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
 <!-- subtitle -->
 
