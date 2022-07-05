@@ -212,7 +212,7 @@ A list of ressources for all topics related to quantitative finance!
 - [The Volatility Surface A Practitioners Guide (Wiley Finance) by Jim Gatheral, Nassim Nicholas Taleb](https://www.wiley.com/en-us/The+Volatility+Surface%3A+A+Practitioner%27s+Guide-p-9780471792512)
 - [Baruch MFE 2019 Fall - R Notebooks](https://github.com/HantianZheng/MTH9875-Volatility-Surface)
 - [Stochastic Volatility Modeling by Bergomi, Lorenzo](https://www.lorenzobergomi.com/)
-- [Local/Stochastic Volatility and Applications with R - Open the PDF file (Stochastic Finance) with Adobe Acrobat Reader](https://personal.ntu.edu.sg/nprivault/indext.html)
+- [Local/Stochastic Volatility and Applications with R - Open the PDF file (Stochastic Finance) with Adobe Acrobat Reader](https://personal.ntu.edu.sg/nprivault/MA5182/stochastic_finance.pdf)
 - [Rough volatility : An overview by Jim Gatheral](https://www.youtube.com/watch?v=gW073Tnx7CE)
 - [Rough Volatility Literature](https://sites.google.com/site/roughvol/)
 - [Rough Volatility Lecture 1 by Jim Gatheral](https://staff.fnwi.uva.nl/p.j.c.spreij/winterschool/18LRV1.pdf)
