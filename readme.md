@@ -41,6 +41,7 @@ A list of ressources for all topics related to quantitative finance!
 - [GitHub Repositories](#GitHub-Repositories)
 - [Blogs](#Blogs)
 - [Bonus](#Bonus)
+- 
 <!-- CONTENT -->
 
 ## Mathematical Finance
