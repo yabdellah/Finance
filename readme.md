@@ -9,22 +9,22 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 ## Contents
 
 - [Mathematical Finance](#mathematical-finance)
-- [Financial Economics and Asset Management](#Financial-Economics-and-Asset-Management)
-- [Financial Econometrics and Asset Pricing](#Financial-Econometrics-and-Asset-Pricing)
-- [Bayesian Statistics and Monte-Carlo Methods](#Bayesian-Statistics-and-Monte-Carlo-Methods)
-- [Financial Markets](#Financial-Markets)
-- [Volatility Theory](#Volatility-Theory)
-- [Lévy processes and Jump Diffusion Models](#Lévy-processes-and-Jump-Diffusion-Models)
-- [Numerical Finance](#Numerical-Finance)
-- [Interest Rate Modeling Theory](#Interest-Rate-Modeling-Theory)
-- [Empirical Market Microstructure](#Empirical-Market-Microstructure)
-- [High-Frequency Trading](#High-Frequency-Trading)
-- [Reinforcement Learning](#Reinforcement-Learning)
-- [Risk Management](#Risk-Management)
-- [Machine Learning and Financial Applications](#Machine-Learning-and-Financial-Applications)
-- [GitHub Repositories](#GitHub-Repositories)
-- [Blogs](#Blogs)
-- [Bonus](#Bonus)
+- [Financial Economics and Asset Management](#financial-economics-and-asset-management)
+- [Financial Econometrics and Asset Pricing](#financial-econometrics-and-asset-pricing)
+- [Bayesian Statistics and Monte-Carlo Methods](#bayesian-statistics-and-monte-carlo-methods)
+- [Financial Markets](#financial-markets)
+- [Volatility Theory](#volatility-theory)
+- [Lévy Processes and Jump Diffusion Models](#lévy-processes-and-jump-diffusion-models)
+- [Numerical Finance](#numerical-finance)
+- [Interest Rate Modeling Theory](#interest-rate-modeling-theory)
+- [Empirical Market Microstructure](#empirical-market-microstructure)
+- [High-Frequency Trading](#high-frequency-trading)
+- [Reinforcement Learning](#reinforcement-learning)
+- [Risk Management](#risk-management)
+- [Machine Learning and Financial Applications](#machine-learning-and-financial-applications)
+- [GitHub Repositories](#gitHub-repositories)
+- [Blogs](#blogs)
+- [Bonus](#bonus)
 
 
 ## Mathematical Finance 
@@ -206,7 +206,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Rough Volatility Lecture 4 by Jim Gatheral](https://staff.fnwi.uva.nl/p.j.c.spreij/winterschool/18LRV4.pdf)
 - [Rough Volatility Lecture 5 by Jim Gatheral](https://staff.fnwi.uva.nl/p.j.c.spreij/winterschool/18LRV5.pdf)
 
-## Lévy processes and Jump Diffusion Models
+## Lévy Processes and Jump Diffusion Models
 - [Financial Modelling with Jump Processes by Peter Tankov](https://www.routledge.com/Financial-Modelling-with-Jump-Processes/Tankov-Cont/p/book/9781584884132)
 - [Applied Stochastic Control of Jump Diffusions](https://link.springer.com/book/10.1007/978-3-540-69826-5)
 - [Lévy Processes and Stochastic Calculus](https://www.cambridge.org/core/books/levy-processes-and-stochastic-calculus/4AC698D37D3D8E57D099B73ADF4ACB11)
