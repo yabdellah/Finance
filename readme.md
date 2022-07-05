@@ -1,12 +1,12 @@
-# Awesome Quantitative Finance. 
-	
-A list of ressources for all topics related to quantitative finance. [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)	
+<!--lint disable double-link-->
+# Awesome Quantitative Finance [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A list of ressources for all topics related to quantitative finance.
 
 This list accepts and encourages pull requests. See [CONTRIBUTING](https://github.com/yabdellah/Finance/blob/main/contributing.md)
 
 
 ## Contents
-
 - [Mathematical Finance](#Mathematical-Finance)
 - [Financial Economics and Asset Management](#Financial-Economics-and-Asset-Management)
 - [Financial Econometrics and Asset Pricing](#Financial-Econometrics-and-Asset-Pricing)
@@ -25,7 +25,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Blogs](#Blogs)
 - [Bonus](#Bonus)
 
-<!-- CONTENT -->
 
 ### Mathematical Finance
 - [Guide How To Get Into Stochastic Analysis](https://www.reddit.com/r/math/comments/q2zrdu/guide_how_to_get_into_stochastic_analysis/) - This Reddit thread is a good start to learn about the basic topics in stochastic analysis and probability theory.
@@ -363,7 +362,7 @@ Optimal liquidation problems, Markov decision processes, dynamic programming, Be
 ## GitHub Repositories
 
 - [A curated list of insanely awesome libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant)
-- [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)										
+
 ## Blogs
 - [Quantgirl](https://quantgirl.blog/quant-project/)
 - [ML-QUANT](https://www.ml-quant.com/)
