@@ -41,9 +41,10 @@ A list of ressources for all topics related to quantitative finance!
 - [GitHub Repositories](#GitHub-Repositories)
 - [Blogs](#Blogs)
 - [Bonus](#Bonus)
+
 <!-- CONTENT -->
 
-## Mathematical Finance
+### Mathematical Finance
 - [Guide How To Get Into Stochastic Analysis](https://www.reddit.com/r/math/comments/q2zrdu/guide_how_to_get_into_stochastic_analysis/) - This Reddit thread is a good start to learn about the basic topics in stochastic analysis and probability theory.
 ### Measure theory
 - [Analysis, Measure, and Probability: A visual introduction by Marcus Pivato](http://euclid.trentu.ca/pivato/Teaching/measure.pdf)
@@ -186,7 +187,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Mathematical Finance I](https://christophbelak.com/mathematical-finance-i-2/)
 - [Mathematical Finance II](https://christophbelak.com/mathematical-finance-ii-2/)
 ### Nicolas Privault
-- [Stochastic Finance - Open the PDF file with Adobe Acrobat Reader](https://personal.ntu.edu.sg/nprivault/MA5182/stochastic_finance.pdf)
+- [Stochastic Finance - Open the PDF file with Adobe Acrobat Reader](https://personal.ntu.edu.sg/nprivault/indext.html)
 ### Genevieve Gauthier
 - [Stochastic Calculus](http://neumann.hec.ca/~p240/c80646en/c8064604en.html)
 ### Ansgar Jungel
