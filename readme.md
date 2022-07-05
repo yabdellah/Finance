@@ -101,7 +101,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Investment Management with Python and Machine Learning Specialization](https://www.coursera.org/specializations/investment-management-python-machine-learning)
 - [A course by Peter Ireland](http://irelandp.com/econ3379.html)
 - [Financial Decisions and Markets: A Course in Asset Pricing by John Y. Campbell](https://press.princeton.edu/books/hardcover/9780691160801/financial-decisions-and-markets)
-- [Asset pricing and portfolio choice theory by  Kerry E. Back ](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780190241148.001.0001/acprof-9780190241148)
+- [Asset pricing and portfolio choice theory by  Kerry E. Back](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780190241148.001.0001/acprof-9780190241148)
 - [Portfolio theory by P.J.C. Spreij](https://staff.fnwi.uva.nl/p.j.c.spreij/onderwijs/master/pft.html)
 - [Quantitative Portfolio Management with Applications in Pierre Brugièere](https://link.springer.com/book/10.1007/978-3-030-37740-3)
 - [Quantitative Financial Economics by Cuthberson, Nitzsche](https://www.wiley.com/en-ie/Quantitative+Financial+Economics:+Stocks,+Bonds+and+Foreign+Exchange,+2nd+Edition-p-9780470091715)
@@ -239,12 +239,12 @@ A list of ressources for all topics related to quantitative finance!
 - [Implementing models in quantitative finance methods and cases by Gianluca Fusai, Andrea Roncoroni](https://sites.google.com/uniupo.it/implementingmodels/implementing-models-in-quantitative-finance?authuser=0)
 - [Numerical Solution of Stochastic Differential Equations with Jumps in Finance](https://link.springer.com/book/10.1007/978-3-642-13694-8)
 - [An Introduction to Computational Stochastic PDEs by Gabriel J. Lord, Catherine E. Powell, Tony Shardlow](https://www.cambridge.org/core/books/an-introduction-to-computational-stochastic-pdes/01A784303F5C86644A25BFB138923090)
-- [Numerical probability an introduction with applications to finance by Pagès, Gilles ](https://link.springer.com/book/10.1007/978-3-319-90276-0)
+- [Numerical probability an introduction with applications to finance by Pagès, Gilles](https://link.springer.com/book/10.1007/978-3-319-90276-0)
 #### Courses
 - [Computational Finance by Christian Bayer](https://www.wias-berlin.de/people/bayerc/compfin.jsp)
 - [An Introduction to Computational Finance Without Agonizing Pain by Peter Forsyth](https://cs.uwaterloo.ca/~paforsyt/agon.pdf)
 ### R
-- [Computational Finance An Introductory Course with R by Argimiro Arratia ](https://link.springer.com/book/10.2991/978-94-6239-070-6)
+- [Computational Finance An Introductory Course with R by Argimiro Arratia](https://link.springer.com/book/10.2991/978-94-6239-070-6)
 ### Python
 #### Lech A. Grzelak
 - [Mathematical Modeling and Computation in Finance With Exercises and Python and MATLAB Computer Codes by Cornelis W. Oosterlee, Lech A. Grzelak](https://compfinance.ddns.net/wordpress/book/)
@@ -259,7 +259,7 @@ A list of ressources for all topics related to quantitative finance!
 - [C++ For Financial Mathematics by John Armstrong](https://nms.kcl.ac.uk/john.armstrong/cppbook/cpp-website.html)
 - [C++ Design Patterns and Derivatives Pricing by Joshi Mark](https://www.cambridge.org/9780521721622)
 #### Antoine Savine
-- [Modern Computational Finance AAD and Parallel Simulations by Antoine Savine ](https://antoinesavine.com/books-by-antoine-savine/)
+- [Modern Computational Finance AAD and Parallel Simulations by Antoine Savine](https://antoinesavine.com/books-by-antoine-savine/)
 - [Modern Computational Finance Scripting for Derivatives and xVA by Antoine Savine, Jesper Andreasen](https://antoinesavine.com/books-by-antoine-savine/)
 #### Fabrice D. Rouah
 - [The Heston Model and Its Extensions in MATLAB and C# by Rouah](https://www.wiley.com/en-us/The+Heston+Model+and+its+Extensions+in+Matlab+and+C%23%2C+%2B+Website-p-9781118548257)
