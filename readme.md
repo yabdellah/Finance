@@ -8,18 +8,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 ## Contents
 
-- [Mathematical Finance](#Mathematical-Finance)
-  -[Measure theory](#Measure-theory)
-  -[Optimization](#Optimization)	
-  -[Markov Chains and Stochastic Processes](#Markov-Chains-and-Stochastic-Processes)
-  -[Stochastic Calculus](#Stochastic-Calculus)
-  -[Rough Path Theory](#Rough-Path-Theory)
-  -[Malliavin Calculus](#Malliavin-Calculus)
-  -[Fourier Analysis](#Fourier-Analysis)
-  -[Optimal and Stochastic Control](#Optimal-and-Stochastic-Control)
-  -[Stochastic Filtering](#Stochastic-Filtering)
-  -[Mean Field Games](#Mean-Field-Games)
-  -[Optimal Transport](#Optimal-Transport)
+- [Mathematical Finance](#mathematical-finance)
 - [Financial Economics and Asset Management](#Financial-Economics-and-Asset-Management)
 - [Financial Econometrics and Asset Pricing](#Financial-Econometrics-and-Asset-Pricing)
 - [Bayesian Statistics and Monte-Carlo Methods](#Bayesian-Statistics-and-Monte-Carlo-Methods)
