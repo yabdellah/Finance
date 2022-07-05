@@ -38,7 +38,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Reinforcement Learning](#Reinforcement-Learning)
 - [Risk Management](#Risk-Management)
 - [Machine Learning and Financial Applications](#Machine-Learning-and-Financial-Applications)
-- [Github Repositories](#Github-Repositories)
+- [GitHub Repositories](#GitHub-Repositories)
 - [Blogs](#Blogs)
 - [Bonus](#Bonus)
 <!-- CONTENT -->
@@ -75,11 +75,11 @@ A list of ressources for all topics related to quantitative finance!
 ### Fourier Analysis
 - [Fourier Analysis and Stochastic Processes](https://link.springer.com/book/10.1007/978-3-319-09590-5)
 ### Optimal and Stochastic Control
-- [Stochastic Controls Hamiltonian Systems and HJB Equations by Jiongmin Yong, Xun Yu Zhou]()
+- [Stochastic Controls Hamiltonian Systems and HJB Equations by Jiongmin Yong, Xun Yu Zhou](https://link.springer.com/book/10.1007/978-1-4612-1466-3)
 - [Deterministic and Stochastic Control, Application to Finance](http://www.cmap.polytechnique.fr/~touzi/Master-LN.pdf)
 - [Introduction to stochastic control of mixed diffusion processes, viscosity solutions and applications in finance and insurance](https://www.ceremade.dauphine.fr/~bouchard/pdf/PolyContSto.pdf)
-- [Continuous-time stochastic control and optimization with financial applications by Huyen Pham]()
-- [Stochastic optimization in continuous time-CUP by Chang F.-R]()
+- [Continuous-time stochastic control and optimization with financial applications by Huyen Pham](https://link.springer.com/book/10.1007/978-3-540-89500-8)
+- [Stochastic optimization in continuous time-CUP by Chang F.-R](https://www.amazon.com/Stochastic-Optimization-Continuous-Fwu-Ranq-Chang/dp/0521834066)
 - [Lectures by Neil Walton](https://www.youtube.com/playlist?list=PLGboZ4litMr_TOwUANH-s-uFnczzy2uuW)	
 ### Stochastic Filtering
 - [Stochastic Calculus, Filtering, and Stochastic Control Lecture Notes by Ramon van Handel](https://web.math.princeton.edu/~rvan/acm217/ACM217.pdf)
@@ -124,7 +124,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Applied time series analysis a practical guide to modeling and forecasting by Mills, Terence C](https://www.elsevier.com/books/applied-time-series-analysis/mills/978-0-12-813117-6)
 - [Hidden Markov Models for Time Series An Introduction Using R by Langrock, Roland MacDonald, Iain L. Zucchini, W](https://www.taylorfrancis.com/books/mono/10.1201/b20790/hidden-markov-models-time-series-walter-zucchini-iain-macdonald-roland-langrock)
 - [Nonlinear time series analysis by Chen, Rong Tsay, Ruey S](https://www.wiley.com/en-us/Nonlinear+Time+Series+Analysis-p-9781119264071)
-- [Garch Models Structure, Statistical Inference and Financial Applications by Christian Francq, Jean-Michel Zakoian ]()
+- [Garch Models Structure, Statistical Inference and Financial Applications by Christian Francq, Jean-Michel Zakoian](https://www.wiley.com/en-us/GARCH+Models%3A+Structure%2C+Statistical+Inference+and+Financial+Applications%2C+2nd+Edition-p-9781119313489)
 - [Essentials of Time Series for Financial Applications by Massimo Guidolin, Manuela Pedio](https://www.elsevier.com/books/essentials-of-time-series-for-financial-applications/guidolin/978-0-12-813409-2)
 ### Statistical Learning
 - [The elements of statistical learning by hastie tibshirani and friedman](https://link.springer.com/book/10.1007/978-0-387-84858-7)
@@ -139,10 +139,10 @@ A list of ressources for all topics related to quantitative finance!
 - [Probabilistic Machine Learning - Kevin Patrick Murphy](https://probml.github.io/pml-book/)
 - [Dive into deep learning](https://d2l.ai/)
 - [Deep Learning Do It Yourself!](https://dataflowr.github.io/website/)
-- [Alfredo Canziani and Yann LeCun’s Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
+- [Alfredo Canziani and Yann LeCuns Deep Learning Course at CDS](https://cds.nyu.edu/deep-learning/)
 ### Python 
 - [Python Programming for Economics and Finance](https://python-programming.quantecon.org/intro.html)
-- [Quantitative Economics with Python](https://python.quantecon.org/intro.html	)
+- [Quantitative Economics with Python](https://python.quantecon.org/intro.html)
 - [Advanced Quantitative Economics with Python](https://python-advanced.quantecon.org/intro.html)
 ### R
 - [Financial econometrics](https://bookdown.org/compfinezbook/introcompfinr/)
@@ -186,7 +186,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Mathematical Finance I](https://christophbelak.com/mathematical-finance-i-2/)
 - [Mathematical Finance II](https://christophbelak.com/mathematical-finance-ii-2/)
 ### Nicolas Privault
-- [Stochastic Finance](https://personal.ntu.edu.sg/nprivault/indext.html) - Open the PDF file with Adobe Acrobat Reader
+- [Stochastic Finance - Open the PDF file with Adobe Acrobat Reader](https://personal.ntu.edu.sg/nprivault/indext.html)
 ### Genevieve Gauthier
 - [Stochastic Calculus](http://neumann.hec.ca/~p240/c80646en/c8064604en.html)
 ### Ansgar Jungel
@@ -212,7 +212,7 @@ A list of ressources for all topics related to quantitative finance!
 - [The Volatility Surface A Practitioners Guide (Wiley Finance) by Jim Gatheral, Nassim Nicholas Taleb](https://www.wiley.com/en-us/The+Volatility+Surface%3A+A+Practitioner%27s+Guide-p-9780471792512)
 - [Baruch MFE 2019 Fall - R Notebooks](https://github.com/HantianZheng/MTH9875-Volatility-Surface)
 - [Stochastic Volatility Modeling by Bergomi, Lorenzo](https://www.lorenzobergomi.com/)
-- [Local/Stochastic Volatility and Applications with R](https://personal.ntu.edu.sg/nprivault/indext.html) - Open the PDF file (Stochastic Finance) with Adobe Acrobat Reader
+- [Local/Stochastic Volatility and Applications with R - Open the PDF file (Stochastic Finance) with Adobe Acrobat Reader](https://personal.ntu.edu.sg/nprivault/indext.html)
 - [Rough volatility : An overview by Jim Gatheral](https://www.youtube.com/watch?v=gW073Tnx7CE)
 - [Rough Volatility Literature](https://sites.google.com/site/roughvol/)
 - [Rough Volatility Lecture 1 by Jim Gatheral](https://staff.fnwi.uva.nl/p.j.c.spreij/winterschool/18LRV1.pdf)
@@ -255,7 +255,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Derivatives Analytics with Python Data Analysis, Models, Simulation, Calibration and Hedging by Yves Hilpisch](https://home.tpq.io/books/dawp/)
 ### C++/C#
 - [Computational Methods for Option Pricing by  Yves Achdou, Olivier Pironneau](https://www.amazon.com/Computational-Methods-Pricing-Frontiers-Mathematics/dp/0898715733)
-- [C++ For Quantitative Finance by Halls-Moore]()
+- [C++ For Quantitative Finance by Halls-Moore](https://www.goodreads.com/book/show/29071897-c-for-quantitative-finance)
 - [C++ For Financial Mathematics by John Armstrong](https://nms.kcl.ac.uk/john.armstrong/cppbook/cpp-website.html)
 - [C++ Design Patterns and Derivatives Pricing by Joshi Mark](https://www.cambridge.org/9780521721622)
 #### Antoine Savine
@@ -276,14 +276,14 @@ A list of ressources for all topics related to quantitative finance!
 - [Computational Finance](https://www.youtube.com/playlist?list=PLJ9XZsVSloaQeqJwoUPQbqa1EjxRfgRUO)
 
 ## Interest Rate Modeling Theory
-- [Interest Rate Models - Theory and Practice With Smile, Inflation and Credit by Damiano Brigo, Fabio Mercurio](https://link.springer.com/book/10.1007/978-3-540-34604-3) - THE BIBLE
+- [Interest Rate Models - Theory and Practice With Smile, Inflation and Credit by Damiano Brigo, Fabio Mercurio](https://link.springer.com/book/10.1007/978-3-540-34604-3) 
 - [An Elementary Introduction To Stochastic Interest Rate Modeling by Nicolas Privault](https://personal.ntu.edu.sg/nprivault/indext.html)
-- [Term-Structure Models  A Graduate Course by Damir Filipovic ](https://link.springer.com/book/10.1007/978-3-540-68015-4) 			
+- [Term-Structure Models A Graduate Course by Damir Filipovic](https://link.springer.com/book/10.1007/978-3-540-68015-4) 			
 - [Interest Rate Swaps and Their Derivatives A Practitioners Guide by Amir Sadr](https://www.wiley.com/en-us/Interest+Rate+Swaps+and+Their+Derivatives%3A+A+Practitioner%27s+Guide-p-9780470443941)	
 					
 ## Empirical Market Microstructure
 ### Courses 
-- [Financial Markets Microstructure by Egor Starkov](https://starkov.site/teaching.html) and [Lectures](https://www.youtube.com/playlist?list=PL4pUs4P_j1Wa2_P1lw44kFWWjKDTGUY7S)
+- [Financial Markets Microstructure by Egor Starkov](https://starkov.site/teaching.html) - [Lectures](https://www.youtube.com/playlist?list=PL4pUs4P_j1Wa2_P1lw44kFWWjKDTGUY7S)
 - [Seminar](https://www.youtube.com/playlist?list=PLer8fLvr6AXE8YTcM-lTPP4WSlHYHm1L4)
 - [MTH 9879 Market Microstructure Models Notes and R notebooks](https://github.com/useric/MTH9879-Market-Microstructure-Models)
 - [Securities Trading Principles and Procedures by Joel Hasbrouck](https://people.stern.nyu.edu/jhasbrou/STPP/drafts/STPPms12c.pdf)
@@ -300,10 +300,10 @@ Trading costs.
 Optimal execution. 
 High Frequency Trading.
 High Frequency Econometrics: Realized volatility and covariance, Microstructure noise. Point processes in finance (Hawkes processes and ACD models).
-- [Empirical Market Microstructure The Institutions, Economics, and Econometrics of Securities Trading by Joel Hasbrouck]()
-- [Market Liquidity Theory, Evidence, and Policy by Ailsa Röell, Marco Pagano, and Thierry Foucault]()
-- [Market Microstructure in Practice by Charles-Albert Lehalle, Sophie Laruelle, Charles-Albert Lehalle, Sophie Laruelle]()
-- [Trades, Quotes and Prices Financial Markets Under the Microscope]()
+- [Empirical Market Microstructure The Institutions, Economics, and Econometrics of Securities Trading by Joel Hasbrouck](https://www.amazon.com/Empirical-Market-Microstructure-Institutions-Econometrics/dp/0195301641)
+- [Market Liquidity Theory, Evidence, and Policy by Ailsa Röell, Marco Pagano, and Thierry Foucault](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199936243.001.0001/acprof-9780199936243)
+- [Market Microstructure in Practice by Charles-Albert Lehalle, Sophie Laruelle, Charles-Albert Lehalle, Sophie Laruelle](https://www.amazon.com/Market-Microstructure-Practice-Charles-Albert-Lehalle/dp/9813231122)
+- [Trades, Quotes and Prices Financial Markets Under the Microscope](https://www.cambridge.org/core/books/trades-quotes-and-prices/029A71078EE4C41C0D5D4574211AB1B5)
 ### Financial networks
 Basic elements of graph theory. 
 Random walks on graphs. 
@@ -312,17 +312,17 @@ Scale free networks and small world graphs.
 Models of random graphs: Erdos Renyi graphs, Exponential random graphs, Stochastic block model, configuration model. 
 Maximum entropy principle and networks. 
 Networks from time series.
-- [Networks by Mark Newman]()
-- [Statistical Analysis Of Network Data With R by Eric D. Kolaczyk, Gábor Csárdi]()
+- [Networks by Mark Newman](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780199206650.001.0001/acprof-9780199206650)
+- [Statistical Analysis Of Network Data With R by Eric D. Kolaczyk, Gábor Csárdi](https://link.springer.com/book/10.1007/978-1-4939-0983-4)
 ### Systemic risk
 Mechanisms for systemic risk and models: Bank runs, leverage cycles, Interbank networks, Fire sales spillovers.
 Econometric approaches to systemic risk: CoVar, MES,SRISK, Granger causality networks.
 High frequency systemic risk: flash crashes, liquidity crises, systemic cojumps.
-- [Handbook on Systemic Risk by Jean-Pierre Fouque, Joseph A. Langsam (eds.)]()
+- [Handbook on Systemic Risk by Jean-Pierre Fouque, Joseph A. Langsam (eds.)](https://www.cambridge.org/core/books/handbook-on-systemic-risk/8EA92559AF6649990E609A10A99E31E9)
 
 ## High-Frequency Trading
 ### Sebastian Jaimungal
-- [Algorithmic and High-Frequency Trading by Álvaro Cartea, Sebastian Jaimungal, José Penalva]()
+- [Algorithmic and High-Frequency Trading by Álvaro Cartea, Sebastian Jaimungal, José Penalva](https://sebastian.statistics.utoronto.ca/books/algo-and-hf-trading/)
 - [Algorithmic Trading Slides and Python Notebooks](http://sebastian.statistics.utoronto.ca/courses/sta-4505-algorithmic-trading/)
 
 ## Reinforcement Learning
@@ -337,7 +337,7 @@ High frequency systemic risk: flash crashes, liquidity crises, systemic cojumps.
 - [Melih Kandemir](https://melihkandemir.github.io/teaching/reinforcement-learning-course)
 ### Deep Reinforcement Learning
 - [Deep Reinforcement Learning from beginner to expert](https://simoninithomas.github.io/Deep_reinforcement_learning_Course/)
-- [CS 285 at UC Berkeley](https://rail.eecs.berkeley.edu/deeprlcourse/) and [Lectures](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
+- [CS 285 at UC Berkeley](https://rail.eecs.berkeley.edu/deeprlcourse/) - [Lectures](https://www.youtube.com/playlist?list=PL_iWQOsE6TfURIIhCrlt-wj9ByIVpbfGc)
 
 ## Risk Management
 ### Thierry Roncalli
@@ -350,9 +350,9 @@ High frequency systemic risk: flash crashes, liquidity crises, systemic cojumps.
 - [Statistics and Data Analysis for Financial Engineering with R examples by David Ruppert, David S. Matteson](https://link.springer.com/book/10.1007/978-1-4939-2614-5)
 ### Topics
 #### Copulas Theory
-- [Analyzing Dependent Data with Vine Copulas A Practical Guide With R by Claudia Czado]()
-- [Copula Methods in Finance by Umberto Cherubini, Elisa Luciano, Walter Vecchiato]()
-- [Elements of Copula Modeling with R by Marius Hofert, Ivan Kojadinovic, Martin Machler, Jun Yan]()
+- [Analyzing Dependent Data with Vine Copulas A Practical Guide With R by Claudia Czado](https://link.springer.com/book/10.1007/978-3-030-13785-4)
+- [Copula Methods in Finance by Umberto Cherubini, Elisa Luciano, Walter Vecchiato](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118673331)
+- [Elements of Copula Modeling with R by Marius Hofert, Ivan Kojadinovic, Martin Machler, Jun Yan](https://www.amazon.com/Elements-Copula-Modeling-Marius-Hofert/dp/3319896342)
 
 ## Machine Learning and Financial Applications
 
@@ -377,7 +377,7 @@ Optimal liquidation problems, Markov decision processes, dynamic programming, Be
 - [Deep Learning Volatility](https://arxiv.org/abs/1901.09647) - [Implementation 1](https://github.com/amuguruza/NN-StochVol-Calibrations) - [Implementation 2](https://paperswithcode.com/paper/deep-learning-volatility)
 - [Deep Hedging](https://arxiv.org/abs/1802.03042) - [Implementation](https://paperswithcode.com/paper/deep-hedging)	
 
-## Github Repositories
+## GitHub Repositories
 
 - [A curated list of insanely awesome libraries, packages and resources for Quants](https://github.com/wilsonfreitas/awesome-quant)
 - [Awesome lists about all kinds of interesting topics](https://github.com/sindresorhus/awesome)										
