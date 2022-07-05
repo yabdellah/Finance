@@ -22,7 +22,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Reinforcement Learning](#reinforcement-learning)
 - [Risk Management](#risk-management)
 - [Machine Learning and Financial Applications](#machine-learning-and-financial-applications)
-- [GitHub Repositories](#gitHub-repositories)
+- [GitHub Repositories](#github-repositories)
 - [Blogs](#blogs)
 - [Bonus](#bonus)
 
