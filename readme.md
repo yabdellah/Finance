@@ -7,7 +7,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 
 ## Contents
-
 - [Mathematical Finance](#Mathematical-Finance)
 - [Financial Economics and Asset Management](#Financial-Economics-and-Asset-Management)
 - [Financial Econometrics and Asset Pricing](#Financial-Econometrics-and-Asset-Pricing)
