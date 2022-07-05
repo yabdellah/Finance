@@ -7,6 +7,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 
 ## Contents
+
 - [Mathematical Finance](#Mathematical-Finance)
 - [Financial Economics and Asset Management](#Financial-Economics-and-Asset-Management)
 - [Financial Econometrics and Asset Pricing](#Financial-Econometrics-and-Asset-Pricing)
@@ -26,7 +27,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Bonus](#Bonus)
 
 
-### Mathematical Finance
+## Mathematical Finance
 - [Guide How To Get Into Stochastic Analysis](https://www.reddit.com/r/math/comments/q2zrdu/guide_how_to_get_into_stochastic_analysis/) - This Reddit thread is a good start to learn about the basic topics in stochastic analysis and probability theory.
 ### Measure theory
 - [Analysis, Measure, and Probability: A visual introduction by Marcus Pivato](http://euclid.trentu.ca/pivato/Teaching/measure.pdf)
