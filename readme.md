@@ -55,7 +55,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Convex Optimization – Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/)		
 ### Markov Chains and Stochastic Processes
 - [Notes and Lectures by Matthew Aldridge](https://mpaldridge.github.io/math2750/)
-- [Notes by Nicolas privault](https://personal.ntu.edu.sg/nprivault/indext.html)
+- [Notes by Nicolas privault](https://personal.ntu.edu.sg/nprivault/MH3512/markov_chains.pdf)
 ### Stochastic Calculus
 - [Lectures by David Prömel](https://www.youtube.com/playlist?list=PLy5qRKPWp6SBgPF3FrWmO_apTpIZckKfw)
 - [Lectures by Chelkak Dmitry](https://www.youtube.com/playlist?list=PLR6S6vLGnUbz4YBz2MWcuzcaws7egKOVn)
@@ -101,7 +101,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Investment Management with Python and Machine Learning Specialization](https://www.coursera.org/specializations/investment-management-python-machine-learning)
 - [A course by Peter Ireland](http://irelandp.com/econ3379.html)
 - [Financial Decisions and Markets: A Course in Asset Pricing by John Y. Campbell](https://press.princeton.edu/books/hardcover/9780691160801/financial-decisions-and-markets)
-- [Asset pricing and portfolio choice theory by  Kerry E. Back](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780190241148.001.0001/acprof-9780190241148)
+- [Asset pricing and portfolio choice theory by Kerry E. Back](https://oxford.universitypressscholarship.com/view/10.1093/acprof:oso/9780190241148.001.0001/acprof-9780190241148)
 - [Portfolio theory by P.J.C. Spreij](https://staff.fnwi.uva.nl/p.j.c.spreij/onderwijs/master/pft.html)
 - [Quantitative Portfolio Management with Applications in Pierre Brugièere](https://link.springer.com/book/10.1007/978-3-030-37740-3)
 - [Quantitative Financial Economics by Cuthberson, Nitzsche](https://www.wiley.com/en-ie/Quantitative+Financial+Economics:+Stocks,+Bonds+and+Foreign+Exchange,+2nd+Edition-p-9780470091715)
@@ -114,7 +114,7 @@ A list of ressources for all topics related to quantitative finance!
 ### Financial Econometrics
 - [Financial Econometrics Models and Methods by Oliver Linton](https://www.cambridge.org/core_title/gb/496319)
 - [Asset Pricing Theory by Claus Munk](https://sites.google.com/view/clausmunk/teaching)
-- [Amazing Notes by Paul Soderlind](https://sites.google.com/site/paulsoderlindecon/home/courses?authuser=0)
+- [Amazing Notes by Paul Soderlind](https://sites.google.com/site/paulsoderlindecon/home/courses)
 - [Asset Pricing by JOHN H. COCHRANE](https://www.johnhcochrane.com/asset-pricing)
 - [Financial Econometrics by Kevin Sheppard](https://www.kevinsheppard.com/teaching/mfe/)
 ### Time Series 
@@ -166,7 +166,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Monte Carlo Methods in Financial Engineering Paul Glasserman](https://link.springer.com/book/10.1007/978-0-387-21617-1)
 - [Monte Carlo Methods and Stochastic Algorithms by BERNARD LAPEYRE](https://cermics.enpc.fr/~bl/monte-carlo/)
 - [Monte Carlo methods by François Portier](https://sites.google.com/site/fportierwebpage/)
-- [Bootstrap and resampling methodsby François Portier](https://sites.google.com/site/fportierwebpage/)
+- [Bootstrap and resampling methodsby François Portier](https://bitbucket.org/portierf/shared_files/downloads/main_boot.pdf)
 ### Advanced Topics
 #### Markov chain Monte Carlo (MCMC)
 - [Bayesian Modeling](https://myweb.uiowa.edu/pbreheny/uk/teaching/701/notes.html)
@@ -186,7 +186,7 @@ A list of ressources for all topics related to quantitative finance!
 - [Mathematical Finance I](https://christophbelak.com/mathematical-finance-i-2/)
 - [Mathematical Finance II](https://christophbelak.com/mathematical-finance-ii-2/)
 ### Nicolas Privault
-- [Stochastic Finance - Open the PDF file with Adobe Acrobat Reader](https://personal.ntu.edu.sg/nprivault/indext.html)
+- [Stochastic Finance - Open the PDF file with Adobe Acrobat Reader](https://personal.ntu.edu.sg/nprivault/MA5182/stochastic_finance.pdf)
 ### Genevieve Gauthier
 - [Stochastic Calculus](http://neumann.hec.ca/~p240/c80646en/c8064604en.html)
 ### Ansgar Jungel
@@ -205,14 +205,13 @@ A list of ressources for all topics related to quantitative finance!
 - [Financial Markets in Continuous Time by Monique Jeanblanc and Rose-Anne Dana	](https://link.springer.com/book/10.1007/978-3-540-71150-6)
 - [Arbitrage Theory in Continuous Time by Tomas Bjork](https://oxford.universitypressscholarship.com/view/10.1093/0199271267.001.0001/acprof-9780199271269)
 - [Mathematics of Financial Markets by Robert J. Elliott, P. Ekkehard Kopp](https://link.springer.com/book/10.1007/978-1-4757-7146-6)
-- [Introduction to Stochastic Calculus Applied to Finance by Damien Lamberton Bernard Lapeyre](https://www.routledge.com/Introduction-to-Stochastic-Calculus-Applied-to-Finance/Lamberton-Lapeyre/p/book/9781584886266)
 - [Financial Statistics and Mathematical Finance Methods, Models and Applications by Ansgar Steland](https://www.wiley.com/en-gb/Financial+Statistics+and+Mathematical+Finance:+Methods,+Models+and+Applications-p-9780470710586)				
 
 ## Volatility Theory
 - [The Volatility Surface A Practitioners Guide (Wiley Finance) by Jim Gatheral, Nassim Nicholas Taleb](https://www.wiley.com/en-us/The+Volatility+Surface%3A+A+Practitioner%27s+Guide-p-9780471792512)
 - [Baruch MFE 2019 Fall - R Notebooks](https://github.com/HantianZheng/MTH9875-Volatility-Surface)
 - [Stochastic Volatility Modeling by Bergomi, Lorenzo](https://www.lorenzobergomi.com/)
-- [Local/Stochastic Volatility and Applications with R - Open the PDF file (Stochastic Finance) with Adobe Acrobat Reader](https://personal.ntu.edu.sg/nprivault/indext.html)
+- [Local/Stochastic Volatility and Applications with R - Open the PDF file (Stochastic Finance) with Adobe Acrobat Reader](https://personal.ntu.edu.sg/nprivault/MA5182/stochastic_finance.pdf)
 - [Rough volatility : An overview by Jim Gatheral](https://www.youtube.com/watch?v=gW073Tnx7CE)
 - [Rough Volatility Literature](https://sites.google.com/site/roughvol/)
 - [Rough Volatility Lecture 1 by Jim Gatheral](https://staff.fnwi.uva.nl/p.j.c.spreij/winterschool/18LRV1.pdf)
@@ -259,7 +258,7 @@ A list of ressources for all topics related to quantitative finance!
 - [C++ For Financial Mathematics by John Armstrong](https://nms.kcl.ac.uk/john.armstrong/cppbook/cpp-website.html)
 - [C++ Design Patterns and Derivatives Pricing by Joshi Mark](https://www.cambridge.org/9780521721622)
 #### Antoine Savine
-- [Modern Computational Finance AAD and Parallel Simulations by Antoine Savine](https://antoinesavine.com/books-by-antoine-savine/)
+- [Modern Computational Finance AAD and Parallel Simulations by Antoine Savine](https://www.wiley.com/en-us/Modern+Computational+Finance:+AAD+and+Parallel+Simulations-p-9781119539452)
 - [Modern Computational Finance Scripting for Derivatives and xVA by Antoine Savine, Jesper Andreasen](https://antoinesavine.com/books-by-antoine-savine/)
 #### Fabrice D. Rouah
 - [The Heston Model and Its Extensions in MATLAB and C# by Rouah](https://www.wiley.com/en-us/The+Heston+Model+and+its+Extensions+in+Matlab+and+C%23%2C+%2B+Website-p-9781118548257)
@@ -277,7 +276,7 @@ A list of ressources for all topics related to quantitative finance!
 
 ## Interest Rate Modeling Theory
 - [Interest Rate Models - Theory and Practice With Smile, Inflation and Credit by Damiano Brigo, Fabio Mercurio](https://link.springer.com/book/10.1007/978-3-540-34604-3) 
-- [An Elementary Introduction To Stochastic Interest Rate Modeling by Nicolas Privault](https://personal.ntu.edu.sg/nprivault/indext.html)
+- [An Elementary Introduction To Stochastic Interest Rate Modeling by Nicolas Privault](https://www.worldscientific.com/worldscibooks/10.1142/12000#t=aboutBook)
 - [Term-Structure Models A Graduate Course by Damir Filipovic](https://link.springer.com/book/10.1007/978-3-540-68015-4) 			
 - [Interest Rate Swaps and Their Derivatives A Practitioners Guide by Amir Sadr](https://www.wiley.com/en-us/Interest+Rate+Swaps+and+Their+Derivatives%3A+A+Practitioner%27s+Guide-p-9780470443941)	
 					
