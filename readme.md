@@ -28,7 +28,6 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 
 
 ## Mathematical Finance
-- [Guide How To Get Into Stochastic Analysis](https://www.reddit.com/r/math/comments/q2zrdu/guide_how_to_get_into_stochastic_analysis/) - This Reddit thread is a good start to learn about the basic topics in stochastic analysis and probability theory.
 ### Measure theory
 - [Analysis, Measure, and Probability: A visual introduction by Marcus Pivato](http://euclid.trentu.ca/pivato/Teaching/measure.pdf)
 - [Measure Theoretic Probability by P.J.C. Spreij](https://staff.fnwi.uva.nl/p.j.c.spreij/onderwijs/master/mtp.pdf)
@@ -41,6 +40,7 @@ This list accepts and encourages pull requests. See [CONTRIBUTING](https://githu
 - [Notes and Lectures by Matthew Aldridge](https://mpaldridge.github.io/math2750/)
 - [Notes by Nicolas privault](https://personal.ntu.edu.sg/nprivault/MH3512/markov_chains.pdf)
 ### Stochastic Calculus
+- [Guide How To Get Into Stochastic Analysis](https://www.reddit.com/r/math/comments/q2zrdu/guide_how_to_get_into_stochastic_analysis/) - This Reddit thread is a good start to learn about the basic topics in stochastic analysis and probability theory.
 - [Lectures by David Prömel](https://www.youtube.com/playlist?list=PLy5qRKPWp6SBgPF3FrWmO_apTpIZckKfw)
 - [Lectures by Chelkak Dmitry](https://www.youtube.com/playlist?list=PLR6S6vLGnUbz4YBz2MWcuzcaws7egKOVn)
 - [Lectures by Pasquale Cirillo](https://www.youtube.com/playlist?list=PLgCR5H4IzggF_w7l1WSYMaoDSZNNkk9gE)
