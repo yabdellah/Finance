@@ -377,13 +377,4 @@ Optimal liquidation problems, Markov decision processes, dynamic programming, Be
 - [Sci-Hub](https://sci-hub.se/)
 - [Z-Library](https://z-lib.org/)
 										
-<!-- END CONTENT -->
 
-
-## Contributing
-
-[Contributions of any kind welcome, just follow the guidelines](contributing.md)!
-
-### Contributors
-
-<!-- [Thanks goes to these contributors](https://github.com/TODO_YOUR_REPO_NAME_HERE/graphs/contributors)! -->
